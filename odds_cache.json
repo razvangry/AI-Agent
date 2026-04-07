@@ -1,0 +1,134 @@
+[
+  {
+    "match": "Manchester United vs Liverpool",
+    "sport": "soccer_epl",
+    "bookmakers": [
+      {"name": "betano", "odds": 2.15},
+      {"name": "williamhill", "odds": 2.10},
+      {"name": "pinnacle", "odds": 1.95},
+      {"name": "betfair", "odds": 1.96},
+      {"name": "matchbook", "odds": 1.94}
+    ]
+  },
+  {
+    "match": "Chelsea vs Arsenal",
+    "sport": "soccer_epl",
+    "bookmakers": [
+      {"name": "betano", "odds": 1.85},
+      {"name": "williamhill", "odds": 1.88},
+      {"name": "pinnacle", "odds": 1.80},
+      {"name": "betfair", "odds": 1.81},
+      {"name": "matchbook", "odds": 1.82}
+    ]
+  },
+  {
+    "match": "Barcelona vs Real Madrid",
+    "sport": "soccer_spain_la_liga",
+    "bookmakers": [
+      {"name": "betano", "odds": 2.35},
+      {"name": "bet365", "odds": 2.30},
+      {"name": "pinnacle", "odds": 2.10},
+      {"name": "betfair", "odds": 2.12},
+      {"name": "matchbook", "odds": 2.11}
+    ]
+  },
+  {
+    "match": "Bayern Munich vs Dortmund",
+    "sport": "soccer_germany_bundesliga",
+    "bookmakers": [
+      {"name": "betano", "odds": 1.95},
+      {"name": "williamhill", "odds": 1.92},
+      {"name": "pinnacle", "odds": 1.88},
+      {"name": "betfair", "odds": 1.89},
+      {"name": "matchbook", "odds": 1.87}
+    ]
+  },
+  {
+    "match": "Juventus vs Inter",
+    "sport": "soccer_italy_serie_a",
+    "bookmakers": [
+      {"name": "betano", "odds": 2.05},
+      {"name": "williamhill", "odds": 2.00},
+      {"name": "pinnacle", "odds": 1.92},
+      {"name": "betfair", "odds": 1.94},
+      {"name": "matchbook", "odds": 1.93}
+    ]
+  },
+  {
+    "match": "NBA: Lakers vs Celtics",
+    "sport": "basketball_nba",
+    "bookmakers": [
+      {"name": "bet365", "odds": 1.90},
+      {"name": "williamhill", "odds": 1.92},
+      {"name": "pinnacle", "odds": 1.85},
+      {"name": "betfair", "odds": 1.87},
+      {"name": "matchbook", "odds": 1.86}
+    ]
+  },
+  {
+    "match": "NBA: Golden State vs Miami",
+    "sport": "basketball_nba",
+    "bookmakers": [
+      {"name": "bet365", "odds": 2.10},
+      {"name": "williamhill", "odds": 2.05},
+      {"name": "pinnacle", "odds": 1.98},
+      {"name": "betfair", "odds": 2.00},
+      {"name": "matchbook", "odds": 1.99}
+    ]
+  },
+  {
+    "match": "Soccer EPL: Tottenham vs Everton",
+    "sport": "soccer_epl",
+    "bookmakers": [
+      {"name": "betano", "odds": 1.70},
+      {"name": "bet365", "odds": 1.68},
+      {"name": "pinnacle", "odds": 1.60},
+      {"name": "betfair", "odds": 1.62},
+      {"name": "matchbook", "odds": 1.61}
+    ]
+  },
+  {
+    "match": "Soccer Spain La Liga: Atletico Madrid vs Sevilla",
+    "sport": "soccer_spain_la_liga",
+    "bookmakers": [
+      {"name": "betano", "odds": 2.50},
+      {"name": "bet365", "odds": 2.45},
+      {"name": "pinnacle", "odds": 2.30},
+      {"name": "betfair", "odds": 2.32},
+      {"name": "matchbook", "odds": 2.31}
+    ]
+  },
+  {
+    "match": "Soccer Bundesliga: RB Leipzig vs Wolfsburg",
+    "sport": "soccer_germany_bundesliga",
+    "bookmakers": [
+      {"name": "betano", "odds": 2.00},
+      {"name": "williamhill", "odds": 1.97},
+      {"name": "pinnacle", "odds": 1.90},
+      {"name": "betfair", "odds": 1.92},
+      {"name": "matchbook", "odds": 1.91}
+    ]
+  },
+  {
+    "match": "Soccer Serie A: Napoli vs Lazio",
+    "sport": "soccer_italy_serie_a",
+    "bookmakers": [
+      {"name": "betano", "odds": 1.80},
+      {"name": "bet365", "odds": 1.78},
+      {"name": "pinnacle", "odds": 1.72},
+      {"name": "betfair", "odds": 1.74},
+      {"name": "matchbook", "odds": 1.73}
+    ]
+  },
+  {
+    "match": "NBA: Brooklyn Nets vs Phoenix Suns",
+    "sport": "basketball_nba",
+    "bookmakers": [
+      {"name": "bet365", "odds": 1.88},
+      {"name": "williamhill", "odds": 1.90},
+      {"name": "pinnacle", "odds": 1.85},
+      {"name": "betfair", "odds": 1.87},
+      {"name": "matchbook", "odds": 1.86}
+    ]
+  }
+]
